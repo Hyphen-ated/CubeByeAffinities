@@ -1,15 +1,17 @@
-14 Alvin
-6 Chad
-6 Sean L
-5 Sam M
-3 Casey
-3 Dan
-3 Stefan
-2 Sean F
+17 Alvin
+9 Chad
+9 Sean L
+8 Sam M
+6 Dan
+5 Sean F
+3 Dustin
+3 Emmett
+3 Jon
+3 Mike
+3 Sean M
+3 Zack
+2 Casey
+2 Stefan
 1 Nick
 1 Robin
-0 Emmett
-0 Jon
 0 Riley
-0 Sean M
-0 Zack
