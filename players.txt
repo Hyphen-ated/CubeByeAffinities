@@ -1,9 +1,11 @@
-24 Emmett
-22 Alvin
-18 Jon
-8 Nick
-5 Sam J
-3 Chad
+21 Alvin
+8 Sam J
+7 Nick
+3 Jacob
+3 Sam M
+3 Sean F
+3 Sean L
+2 Chad
 1 Steve W
 1 Bryce
 1 Casey
@@ -12,10 +14,9 @@
 1 Michael R
 1 Mike A
 1 Robin
+0 Emmett
+0 Jon
 0 Riley
-0 Sam M
-0 Sean F
-0 Sean L
 0 Sean M
 0 Stefan
 0 Zack
