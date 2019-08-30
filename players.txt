@@ -1,16 +1,18 @@
-12 Sean L
-11 Chad
-9 Sam J
-6 Jon
-4 Dan
-4 Nick
-4 Sam M
-4 Sean F
-3 Emmett
-3 Ryan
-3 Stephanie
-2 Alvin
-2 Zack
+15 Sean L
+14 Chad
+12 Sam J
+9 Jon
+7 Sam M
+6 Emmett
+6 Ryan
+5 Zack
+3 Alex
+3 Dan
+3 Luke
+3 Nick
+3 Sean F
+2 Stephanie
+1 Alvin
 1 Bryce
 1 Casey
 1 Dustin
