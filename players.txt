@@ -1,16 +1,17 @@
-15 Chad
-15 Emmett
-12 Alvin
-12 Sam M
-10 Zack
-9 Sam J
-8 Sean F
-6 Brad
-6 Jon
-6 Sean L
-4 Nick
-4 Steve W
-3 Ryan
+18 Chad
+15 Alvin
+14 Emmett
+13 Zack
+11 Sam M
+9 Jon
+9 Sean L
+8 Sam J
+7 Sean F
+5 Brad
+3 Ben
+3 Nick
+3 Steve W
+2 Ryan
 1 Alex
 1 Dan
 1 Luke
