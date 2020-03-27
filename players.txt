@@ -1,14 +1,14 @@
-36 Zack
-35 Sam M
-27 Jon
-14 Topher
-14 Sean L
-9 Emmett
-3 Steve S
-2 Alvin
-2 Stephanie
-2 Steve W
+34 Sam M
+30 Jon
+17 Sean L
+13 Topher
+12 Emmett
+5 Steve S
+3 Chad
+3 Robert
+3 Sean F
 1 Alex
+1 Alvin
 1 Ben
 1 Brad
 1 Bryce
@@ -29,6 +29,7 @@
 1 Ryan
 1 Sam J
 1 Sean M
-0 Chad
-0 Sean F
+1 Stephanie
+1 Steve W
 0 Stefan
+0 Zack
