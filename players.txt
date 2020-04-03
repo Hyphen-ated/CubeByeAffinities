@@ -1,12 +1,14 @@
-34 Sam M
-30 Jon
-17 Sean L
-13 Topher
-12 Emmett
-5 Steve S
-3 Chad
-3 Robert
-3 Sean F
+33 Sam M
+15 Jon
+20 Sean L
+12 Topher
+15 Emmett
+4 Steve S
+5 Chad
+6 Robert
+6 Sean F
+3 Drew
+2 Sean M
 1 Alex
 1 Alvin
 1 Ben
@@ -28,7 +30,6 @@
 1 Robin
 1 Ryan
 1 Sam J
-1 Sean M
 1 Stephanie
 1 Steve W
 0 Stefan
