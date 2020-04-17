@@ -4,10 +4,10 @@
 21 Jon
 12 Sean F
 10 Topher
-10 Steve S
 9 Robert
+9 Steve S
 8 Alvin
-7 Chad
+6 Chad
 5 Drew
 3 Nauvin
 1 Alex
