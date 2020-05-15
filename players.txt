@@ -1,16 +1,17 @@
-30 Jon
-28 Sam M
-7 Topher
-6 Chad
-6 Drew
-6 Emmett
-6 Evan
-6 Robert
-6 Sean L
-5 Alvin
-4 Nauvin
-3 Sean F
-3 Steve S
+33 Jon
+27 Sam M
+9 Chad
+9 Emmett
+9 Robert
+9 Sean L
+6 Steve S
+6 Topher
+5 Drew
+5 Evan
+4 Alvin
+3 Nauvin
+2 Michie
+2 Sean F
 1 Alex
 1 Ben
 1 Brad
