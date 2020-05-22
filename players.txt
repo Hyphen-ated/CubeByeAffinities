@@ -1,18 +1,18 @@
-33 Jon
-27 Sam M
-9 Chad
-9 Emmett
-9 Robert
-9 Sean L
-6 Steve S
-6 Topher
-5 Drew
-5 Evan
-4 Alvin
-3 Nauvin
-2 Michie
-2 Sean F
+36 Jon
+26 Sam M
+12 Chad
+12 Emmett
+12 Robert
+12 Sean L
+9 Steve S
+5 Sean F
+5 Topher
+4 Drew
+4 Evan
+3 Alvin
+2 Nauvin
 1 Alex
+1 Amin
 1 Ben
 1 Brad
 1 Bryce
@@ -26,6 +26,7 @@
 1 Luke
 1 Michael G
 1 Michael R
+1 Michie
 1 Mike A
 1 Nick
 1 Riley
