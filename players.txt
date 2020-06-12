@@ -1,41 +1,41 @@
-24 Sam M
-18 Emmett
-18 Sean L
-12 Steve S
-11 Sean F
-10 Chad
-10 Robert
-7 Amin
-6 Evan
-5 Alvin
+6 Alvin
+6 Amin
+6 Emmett
+6 Sean F
+6 Sean L
+6 Steve S
+3 Alex
+3 Ben
+3 Brad
+3 Bryce
+3 Casey
+3 Chad
+3 Dan
+3 Drew
+3 Dustin
+3 Evan
+3 Garrett
+3 Jacob
+3 James
+3 John-Michael
+3 Justin
+3 Luke
+3 Michael G
+3 Michael R
+3 Michie
+3 Mike A
+3 Nauvin
+3 Nick
+3 Riley
+3 Robert
+3 Robin
+3 Ryan
+3 Sam J
+3 Sam M
+3 Sean M
+3 Stefan
+3 Stephanie
+3 Steve W
 3 Topher
-2 Drew
-1 Alex
-1 Ben
-1 Brad
-1 Bryce
-1 Casey
-1 Dan
-1 Dustin
-1 Jacob
-1 James
-1 John-Michael
-1 Justin
-1 Luke
-1 Michael G
-1 Michael R
-1 Michie
-1 Mike A
-1 Nauvin
-1 Nick
-1 Riley
-1 Robin
-1 Ryan
-1 Sam J
-1 Sean M
-1 Stephanie
-1 Steve W
-0 Garrett
-0 Jon
-0 Stefan
-0 Zack
+3 Zack
+1 Jon
