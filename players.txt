@@ -1,13 +1,12 @@
-15 Sean L
-14 Amin
-13 Emmett
-8 Brad
-6 Jon
-6 Sean F
-6 Steve W
-5 Drew -2
-5 Nauvin -2
-5 Sam J
+18 Sean L
+13 Amin -2
+9 Jon
+9 Sean F
+8 Drew
+7 Brad -2
+5 Steve W -1
+4 Michie
+4 Sam J -2
 3 Alex
 3 Alvin
 3 Ben
@@ -25,8 +24,8 @@
 3 Luke
 3 Michael G
 3 Michael R
-3 Michie
 3 Mike A
+3 Nauvin
 3 Nick
 3 Riley
 3 Robert
@@ -39,3 +38,4 @@
 3 Steve S
 3 Topher
 3 Zack
+2 Emmett
