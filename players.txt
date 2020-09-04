@@ -1,8 +1,12 @@
-22 Sean F
-10 Emmett
-9 Chad
-6 Amin
-5 Drew -2
+24 Sean F
+11 Chad
+9 Emmett -2
+6 Jon
+6 Sam J
+6 Sean L
+6 Steve S
+5 Amin -2
+3 Drew
 3 Alex
 3 Alvin
 3 Ben
@@ -16,7 +20,6 @@
 3 Jacob
 3 James
 3 John-Michael
-3 Jon
 3 Justin
 3 Luke
 3 Michael G
@@ -30,13 +33,10 @@
 3 Robert
 3 Robin
 3 Ryan L
-3 Sam J
 3 Sam M
-3 Sean L
 3 Sean M
 3 Stefan
 3 Stephanie
-3 Steve S
 3 Steve W
 3 Tim
 3 Topher
