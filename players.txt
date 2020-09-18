@@ -1,11 +1,12 @@
-27 Sean F
-14 Chad
-12 Emmett
-9 Jon
-9 Sean L
-6 Steve W
-5 Sam J -2
-5 Steve S -2
+29 Sean F
+13 Chad -2
+14 Emmett
+11 Jon
+8 Sean L -2
+7 Sam J
+6 Steve S
+5 Nauvin
+5 Steve W -2
 3 Alex
 3 Alvin
 3 Amin
@@ -27,7 +28,6 @@
 3 Michael R
 3 Michie
 3 Mike A
-3 Nauvin
 3 Nick
 3 Qirn
 3 Riley
