@@ -1,12 +1,12 @@
-29 Sean F
-13 Chad -2
-14 Emmett
-11 Jon
-8 Sean L -2
-7 Sam J
-6 Steve S
-5 Nauvin
-5 Steve W -2
+17 Emmett
+14 Jon
+11 Chad -4
+11 Sean L
+6 Sam J -2
+6 Todd
+5 Steve S -2
+5 Tristan
+4 Nauvin -2
 3 Alex
 3 Alvin
 3 Amin
@@ -35,10 +35,11 @@
 3 Robin
 3 Ryan L
 3 Sam M
+3 Sean F
 3 Sean M
 3 Stefan
 3 Stephanie
+3 Steve W
 3 Tim
 3 Topher
-3 Tristan
 3 Zack
