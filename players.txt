@@ -1,5 +1,5 @@
-5 Steve W
-5 Sam J -2
+6 Qirn
+4 Steve W -2
 3 Alex
 3 Alvin
 3 Amin
@@ -11,12 +11,12 @@
 3 Dan
 3 Drew
 3 Dustin
-3 Emmett
 3 Evan
 3 Garrett
 3 Jacob
 3 James
 3 John-Michael
+3 Jon
 3 Justin
 3 Luke
 3 Michael G
@@ -25,12 +25,13 @@
 3 Mike A
 3 Nauvin
 3 Nick
-3 Qirn
 3 Riley
 3 Robert
 3 Robin
 3 Ryan L
+3 Sam J
 3 Sam M
+3 Sean L
 3 Sean M
 3 Stefan
 3 Stephanie
@@ -40,6 +41,5 @@
 3 Topher
 3 Tristan
 3 Zack
-2 Jon
-2 Sean L
-1 Sean F
+2 Sean F
+1 Emmett
