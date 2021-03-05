@@ -1,5 +1,7 @@
-6 Qirn
-4 Steve W -2
+6 Jon
+6 Sean F
+5 Qirn -2
+3 Steve W
 3 Alex
 3 Alvin
 3 Amin
@@ -16,7 +18,6 @@
 3 Jacob
 3 James
 3 John-Michael
-3 Jon
 3 Justin
 3 Luke
 3 Michael G
@@ -41,5 +42,4 @@
 3 Topher
 3 Tristan
 3 Zack
-2 Sean F
-1 Emmett
+2 Emmett
