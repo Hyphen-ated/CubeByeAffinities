@@ -1,5 +1,7 @@
-9 Jon
-9 Sean F
+11 Jon
+11 Sean F
+5 Emmett
+5 Sean L
 3 Alex
 3 Alvin
 3 Amin
@@ -11,7 +13,6 @@
 3 Dan
 3 Drew
 3 Dustin
-3 Emmett
 3 Evan
 3 Garrett
 3 Jacob
@@ -32,7 +33,6 @@
 3 Ryan L
 3 Sam J
 3 Sam M
-3 Sean L
 3 Sean M
 3 Stefan
 3 Stephanie
