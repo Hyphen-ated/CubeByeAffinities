@@ -1,7 +1,6 @@
-16 Jon
-9 Sean F -4
-4 Emmett -4
-4 Sean L
+18 Jon
+6 Sean L
+5 Emmett
 3 Alex
 3 Alvin
 3 Amin
@@ -43,3 +42,4 @@
 3 Topher
 3 Tristan
 3 Zack
+2 Sean F
